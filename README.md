@@ -131,12 +131,6 @@ This project can be easily deployed using:
 
 ---
 
-## 📷 Demo
-
-(Add screenshots or screen recording here)
-
----
-
 ## 🔗 Links
 
 * 🌐 Live App: (Add your Vercel link)
